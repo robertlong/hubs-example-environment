@@ -11,7 +11,7 @@ This project shows you how to create a custom environment for [Mozilla Hubs](htt
     
     Example link:
     ```
-    https://robertlong.github.io/hubs-example-enironment/export/Scene.gltf
+    https://robertlong.github.io/hubs-example-environment/export/Scene.gltf
     ```
     ![hubs-create-room](./guide/hubs-create-room.jpg)
 4. Hit create room and share the link with others.
@@ -34,14 +34,14 @@ If you haven't set up the Spoke Editor or completed the [Getting Started tutoria
     ![github-clone](./guide/github-clone.png)
 5. At this point you should have a `hubs-example-environment` folder on your computer. Open the directory in your terminal and run the `spoke` command.
     ```
-    cd hubs-example-enironment
+    cd hubs-example-environment
     spoke
     ```
 6. Make any changes you want to the `sample-scene` or create a new scene.
 7. Export your desired scene in the Spoke editor.
 8. Push your changes to github.
-9. Your custom environment will be availible on your github page.
+9. Your custom environment will be available on your github page.
     ```
-    https://<my github username>.github.io/hubs-example-enironment/<path to my scene>/Scene.gltf
+    https://<my github username>.github.io/hubs-example-environment/<path to my scene>/Scene.gltf
     ```
 10. Follow the previous guide to load your custom environment into Hubs.
