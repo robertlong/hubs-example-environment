@@ -11,7 +11,7 @@ This project shows you how to create a custom environment for [Mozilla Hubs](htt
     
     Example link:
     ```
-    https://robertlong.github.io/hubs-example-environment/export/Scene.gltf
+    https://robertlong.github.io/hubs-example-environment/ExampleRoomExport/Scene.gltf
     ```
     ![hubs-create-room](./guide/hubs-create-room.jpg)
 4. Hit create room and share the link with others.
