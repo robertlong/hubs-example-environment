@@ -37,7 +37,7 @@ If you haven't set up the Spoke Editor or completed the [Getting Started tutoria
     cd hubs-example-environment
     spoke
     ```
-6. Make any changes you want to the `sample-scene` or create a new scene.
+6. Make any changes you want to the `ExampleRoom.scene` or create a new scene.
 7. Export your desired scene in the Spoke editor.
 8. Push your changes to github.
 9. Your custom environment will be available on your github page.
